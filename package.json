@@ -1,0 +1,8 @@
+{
+  "name": "masala-love-co-jayanagar-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf build && cp -R public build"
+  }
+}
